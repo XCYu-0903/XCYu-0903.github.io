@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**   **
+<hr>
+
 **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning**    
 ***Xincheng Yu**, Dongyue Guo, Jianwei Zhang, Yi Lin*  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2024 [[github]](https://github.com/XCYu-0903/ROSE) 
