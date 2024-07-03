@@ -23,19 +23,19 @@ Speech Enhancement (SE), including time and time-frequency (T-F) domain denoisin
 
 Experience
 ------
-+ 2023.06 - 2024.06, **Research Assistant**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/).
++ 2023.06 - 2024.06, **Research Assistant**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
   - Advisor: Assoc. Prof. Yi Lin
 
 + 2020.12 - 2023.06, **Intern**, Wisesoft. Co. Ltd, China.
   - Mentor: Yi Lin
 
-+ 2020.09 - 2023.06, **M.S.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/).
++ 2020.09 - 2023.06, **M.S.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
   - Advisor: Prof. Jianwei Zhang
   - Co-Advisor: Assoc. Prof. Yi Lin
   
-+ 2018.07 - 2018.09, **Visitor**, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics [(ITMO)](https://en.itmo.ru/).
++ 2018.07 - 2018.09, **Visitor**, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics [(ITMO)](https://en.itmo.ru/), Russia.
   - Advisor: Prof. Alexey Vedyakov
   
-+ 2015.09 - 2019.06, **B.E.**, Shanghai University of Engineering Science [(SUES)](https://www.sues.edu.cn/).
++ 2015.09 - 2019.06, **B.E.**, Shanghai University of Engineering Science [(SUES)](https://www.sues.edu.cn/), China.
   - Ranking: 3/120+
   - Advisor: Assoc. Prof. Juan Zhang
