@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<font color=red>Note:</font>**Title**,*Authors(**Me**)*  
+<font color=red>Note:</font>**Title**, *Authors (**Me**) *  
 Article/Conference. **Abbreviation** year [sources]  
 
 **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning**    
