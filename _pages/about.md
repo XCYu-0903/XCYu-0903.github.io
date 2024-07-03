@@ -36,6 +36,6 @@ Experience
 + 2018.07 - 2018.09, **Visitor**, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics [(ITMO)](https://en.itmo.ru/).
   - Advisor: Prof. Alexey Vedyakov
   
-+ 2015.09 - 2019.06, **B.E.**, Shanghai University Of Engineering Science [(SUES)](https://www.sues.edu.cn/).
++ 2015.09 - 2019.06, **B.E.**, Shanghai University of Engineering Science [(SUES)](https://www.sues.edu.cn/).
   - Ranking: 3/120+
   - Advisor: Assoc. Prof. Juan Zhang
