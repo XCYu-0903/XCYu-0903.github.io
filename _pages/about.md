@@ -23,8 +23,8 @@ Speech Enhancement (SE), including time and time-frequency (T-F) domain denoisin
 
 Experience
 ------
-+ 2023.06 - 2024.06, **Research Assistant**, Wisesoft. Co. Ltd, China.
-  - Mentor: Yi Lin
++ 2023.06 - 2024.06, **Research Assistant**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/).
+  - Advisor: Assoc. Prof. Yi Lin
 
 + 2020.12 - 2023.06, **Intern**, Wisesoft. Co. Ltd, China.
   - Mentor: Yi Lin
