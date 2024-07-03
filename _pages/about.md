@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Xincheng Yu** (余欣乘). I was an M.S. student in the group WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
+My name is **Xincheng Yu** (余欣乘). I was an M.S. student in the team WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
 
 My publications can be found [here](https://xcyu-0903.github.io/publications/). 
 
@@ -23,7 +23,7 @@ Speech Enhancement (SE), including time and time-frequency (T-F) domain denoisin
 
 Experience
 ------
-+ 2023.06 - 2024.06, **Research Assistant**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
++ 2023.06 - 2024.06, **R.A.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
   - Advisor: Assoc. Prof. Yi Lin
 
 + 2020.12 - 2023.06, **Intern**, Wisesoft. Co. Ltd, China.
