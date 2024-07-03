@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Title**
-*Authors*
+**Title**,*Authors*
 Article/Conference. **Abbreviation** year [sources]
 
 **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning**    
