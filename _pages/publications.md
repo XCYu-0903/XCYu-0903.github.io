@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Title**, *Authors (**Me**)*    
-**Article/Conference** year [sources]  
+**Title**, *Authors (**Me**)*  
+**Journal/Conference** year
 
 **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning**    
 ***Xincheng Yu**, Dongyue Guo, Jianwei Zhang, Yi Lin*  
