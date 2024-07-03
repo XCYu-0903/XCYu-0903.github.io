@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Xincheng Yu** (余欣乘). I was a master's student in the group WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
+My name is **Xincheng Yu** (余欣乘). I was an M.S. student in the group WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
 
 My publications can be found [here](https://xcyu-0903.github.io/publications/). 
 
@@ -19,23 +19,23 @@ News can be found [here](https://xcyu-0903.github.io/news/).
 Activities can be found [here](https://xcyu-0903.github.io/activities/).  
 
 **Interests:** 
-Speech Enhancement (SE), including time and time-frequency (T-F) domain denoising, SSL-based features embedding, ASR-oriented objective optimization, the speech echo elimination in ATC domain, etc.
+Speech Enhancement (SE), including time and time-frequency (T-F) domain denoising, SSL-based features embedding, ASR-oriented objective optimization, the speech echo elimination in the ATC domain, etc.
 
 Experience
 ------
-+ 2023.6 - 2024.6, **Research Assistant**, Big Data Center of Research Institute, Wisesoft. Co. Ltd, China.
++ 2023.06 - 2024.06, **Research Assistant**, Wisesoft. Co. Ltd, China.
   - Mentor: Yi Lin
 
-+ 2020.12 - 2023.6, **Intern**, Big Data Center of Research Institute, Wisesoft. Co. Ltd, China.
++ 2020.12 - 2023.06, **Intern**, Wisesoft. Co. Ltd, China.
   - Mentor: Yi Lin
 
-+ 2020.09 - 2023.06, **Master**, WiseATC, College of Computer Science, Sichuan University (SCU).
++ 2020.09 - 2023.06, **M.S.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/).
   - Advisor: Prof. Jianwei Zhang
   - Co-Advisor: Assoc. Prof. Yi Lin
   
-+ 2018.07 - 2018.09, **Visitor**, Saint Petersburg National Research University of Information Technologies, Machanics and Optics (ITMO).
++ 2018.07 - 2018.09, **Visitor**, Saint Petersburg National Research University of Information Technologies, Mechanics and Optics [(ITMO)](https://en.itmo.ru/).
   - Advisor: Prof. Alexey Vedyakov
   
-+ 2015.09 - 2019.06, **B.E.**, School of Electronic and Electrical Engineering, Shanghai University Of Engineering Science (SUES).
++ 2015.09 - 2019.06, **B.E.**, Shanghai University Of Engineering Science [(SUES)](https://www.sues.edu.cn/).
   - Ranking: 3/120+
   - Advisor: Assoc. Prof. Juan Zhang
