@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**, *Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
+**NAACL** 2022 
+
 **Title**, *Co-Authors,**Me***  
 **Journal/Conference** year
 
