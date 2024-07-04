@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Patents"
-    url: /patents/    
-
-  - title: "Honors"
-    url: /awards/    
+    url: /patents/      
     
   - title: "News"
     url: /news/
