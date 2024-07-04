@@ -10,8 +10,6 @@ My name is **Xincheng Yu** (余欣乘). I was an M.S. student in the team WiseAT
 
 My publications can be found [here](https://xcyu-0903.github.io/publications/). 
 
-Patents can be found [here](https://xcyu-0903.github.io/patents/).
-
 News can be found [here](https://xcyu-0903.github.io/news/).
 
 **Interests:** 
