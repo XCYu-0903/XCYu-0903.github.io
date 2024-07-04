@@ -4,7 +4,7 @@ title: "Patents"
 permalink: /patents/
 author_profile: true
 ---
-**A recognition-oriented speech enhancement method and apparatus for controller echo elimination**    
+**A Recognition-Oriented Speech Enhancement Method and Apparatus for Controller Echo Elimination**    
 ***Xincheng Yu***, *Yi Lin, Jianwei Zhang*  
-**CN115240648A** 2023 
+*CN115240648A* 2023 
 
