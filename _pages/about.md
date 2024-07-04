@@ -37,5 +37,5 @@ Experience
   - Advisor: Prof. Alexey Vedyakov
   
 + 2015.09 - 2019.06, **B.E.**, Shanghai University of Engineering Science [(SUES)](https://www.sues.edu.cn/), China.
-  - Ranking: 3/120+
+  - Ranking: 3/100+
   - Advisor: Assoc. Prof. Juan Zhang
