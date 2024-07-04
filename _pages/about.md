@@ -12,8 +12,6 @@ My publications can be found [here](https://xcyu-0903.github.io/publications/).
 
 Patents can be found [here](https://xcyu-0903.github.io/patents/).
 
-Honors can be found [here](https://xcyu-0903.github.io/awards/).
-
 News can be found [here](https://xcyu-0903.github.io/news/).
 
 Activities can be found [here](https://xcyu-0903.github.io/activities/).  
