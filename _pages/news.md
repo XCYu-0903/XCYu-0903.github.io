@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - Jul. 02, 2024, our paper: **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning** was accepted to the **IEEE/ACM Transactions on Audio, Speech, and Language Processing** (TASLP 2024).
-- Dec. 30, 2023, our team "**六分投了**" won the **Advanced Game Theory Algorithm - 3rd place (3/120)** award at the **2023 Tencent AI Arena Artificial Intelligence National Open Competition**.
+- Dec. 30, 2023, our team "**六分投了**" won the **Advanced Game Theory Algorithm - 3rd place (3/80)** award at the **2023 Tencent AI Arena Artificial Intelligence National Open Competition**.
 - Aug. 14, 2023, our paper: **Towards Recognition for Radio-Echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach** was accepted to the **IEEE/ACM Transactions on Audio, Speech, and Language Processing** (TASLP 2023).
 - Apr. 07, 2023, our patent was granted: **A Recognition-Oriented Speech Enhancement Method and Apparatus for Controller Echo Elimination** (CN115240648A).
 - Jul. 01, 2022, I got the one-year **Second-class scholarship** for M.S. students.
