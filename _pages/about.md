@@ -14,8 +14,6 @@ Patents can be found [here](https://xcyu-0903.github.io/patents/).
 
 News can be found [here](https://xcyu-0903.github.io/news/).
 
-Activities can be found [here](https://xcyu-0903.github.io/activities/).  
-
 **Interests:** 
 Speech Enhancement (SE), including time and time-frequency (T-F) domain denoising, SSL-based features embedding, ASR-oriented objective optimization, the speech echo elimination in the ATC domain, etc.
 
