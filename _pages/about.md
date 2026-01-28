@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Xincheng Yu** (余欣乘). I am a PhD student in the team WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
+My name is **Xincheng Yu** (余欣乘). I am a PhD student in the team WiseATC, National Key Laboratory of Fundamental Science on Synthetic Vision at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
 
 My publications can be found [here](https://xcyu-0903.github.io/publications/). 
 
