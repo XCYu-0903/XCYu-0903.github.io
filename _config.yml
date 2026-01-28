@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xincheng Yu"
 title_separator          : "-"
 name                     : &name "Xincheng Yu 余欣乘"
-description              : &description "Computer Science MSc student at Sichuan University"
+description              : &description "Computer Science PhD student at Sichuan University"
 url                      : https://xcyu-0903.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XCYu-0903/XCYu-0903.github.io"
@@ -22,7 +22,7 @@ author:
   avatar           : "yuxincheng_2.png"
   name             : "Xincheng Yu"
   pronouns         :   
-  bio              : "College of Computer Science, Sichuan University, Chengdu"
+  bio              : "National Key Laboratory of Fundamental Science on Synthetic Vision, Sichuan University, Sichuan University, Chengdu"
   location         : "Chengdu, China"
   employer         : 
   uri              : 
