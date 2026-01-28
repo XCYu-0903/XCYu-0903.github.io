@@ -6,23 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Xincheng Yu** (余欣乘). I was an M.S. student in the team WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
+My name is **Xincheng Yu** (余欣乘). I am a PhD student in the team WiseATC, College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by Prof. Jianwei Zhang and Assoc. Prof. Yi Lin.
 
 My publications can be found [here](https://xcyu-0903.github.io/publications/). 
 
 News can be found [here](https://xcyu-0903.github.io/news/).
 
 **Interests:** 
-Speech Enhancement (SE), including time and time-frequency (T-F) domain denoising, SSL-based features embedding, ASR-oriented objective optimization, the speech echo elimination in the ATC domain, etc.
+Speech Enhancement (SE), Multi-modal Audio-Text Learning, etc.
 
 Experience
 ------
-+ 2023.06 - 2024.06, **R.A.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
-  - Advisor: Assoc. Prof. Yi Lin
-
-+ 2020.12 - 2023.06, **Intern**, Wisesoft. Co. Ltd, China.
-  - Mentor: Yi Lin
-
++ 2025.09 - Now, **Ph.D.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
+  - Advisor: Prof. Jianwei Zhang
+  - Co-Advisor: Assoc. Prof. Yi Lin
+  
 + 2020.09 - 2023.06, **M.S.**, WiseATC, Sichuan University [(SCU)](http://www.scu.edu.cn/), China.
   - Advisor: Prof. Jianwei Zhang
   - Co-Advisor: Assoc. Prof. Yi Lin
